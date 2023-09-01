@@ -12,7 +12,7 @@ Source: [Tanay Pratap Video](https://www.youtube.com/watch?v=pfV3fOyOG5Y&ab_chan
 
 - Nested Routes
 - Routing Guards
-- Transitions between routing
+- Transitions between routing [DONE]
 
 ## 3. Authentication & Authorization
 
