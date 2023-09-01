@@ -63,5 +63,6 @@ Basically when there is error in the app , when the user faces an error , these 
  ## Extras
 -  Data Visualization
  -  Using charts 
- -    Error Boundaries 
+ - Error Boundaries
+ -   How Webpack Works
  - Accessibility
