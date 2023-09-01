@@ -17,9 +17,9 @@ Source: [Tanay Pratap Video](https://www.youtube.com/watch?v=pfV3fOyOG5Y&ab_chan
 ## 3. Authentication & Authorization
 
 ###  Authentication
-- JWT
-- OAuth
-- How to manage tokens in client side
+- JWT [DONE]
+- OAuth [DONE]
+- How to manage tokens in client side [DONE]
 
 ### Authorization
 - How to protect routes based on certain conditions ex: only access home page if the user is authenticated else redirect to login page
