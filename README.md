@@ -6,23 +6,23 @@ Source: [Tanay Pratap Video](https://www.youtube.com/watch?v=pfV3fOyOG5Y&ab_chan
 ## 1. State Management
 
 + Redux
-+ 
 
-## 2. Routing & Navigation
 
-- Nested Routes
-- Routing Guards
+## 2. Routing & Navigation [DONE]
+
+- Nested Routes [DONE]
+- Routing Guards [DONE]
 - Transitions between routing [DONE]
 
 ## 3. Authentication & Authorization
 
 ###  Authentication
 - JWT [DONE]
-- OAuth [DONE]
+- OAuth 
 - How to manage tokens in client side [DONE]
 
 ### Authorization
-- How to protect routes based on certain conditions ex: only access home page if the user is authenticated else redirect to login page
+- How to protect routes based on certain conditions ex: only access home page if the user is authenticated else redirect to login page [DONE]
 
 ## 4. Internationalization & Localization
 - I18N
