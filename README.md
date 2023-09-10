@@ -30,9 +30,9 @@ Source: [Tanay Pratap Video](https://www.youtube.com/watch?v=pfV3fOyOG5Y&ab_chan
 
 
 ## 5. Performance Optimization
-- Lazy Loading
-- Code Splitting
--  What are SSR & SSG and where to use them
+- Lazy Loading [ DONE]
+- Code Splitting [ DONE]
+-  What are SSR & SSG and where to use them [DONE]
 - Caching
 
 ## 6. Testing & Automation
